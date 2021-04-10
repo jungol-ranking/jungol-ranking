@@ -6,9 +6,11 @@
   "homepage": "http://www.jungol.tk",
   "license": "GPL-3.0",
   "authors": [
-    "name": "Sunwoo Bae",
-    "email": "codenstory@protonmail.ch",
-    "role": "Developer"
+    {
+      "name": "Sunwoo Bae",
+      "email": "codenstory@protonmail.ch",
+      "role": "Developer"
+    }
   ],
   "support": {
     "email": "codenstory@protonmail.ch",
