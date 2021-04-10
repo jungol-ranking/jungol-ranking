@@ -1,10 +1,10 @@
 {
-  "name": "JungolRanking",
+  "name": "codenstory/jungolranking",
   "description": "Jungol Ranking Services",
   "version": "v0.1.0-dev",
-  "type": "project",
+  "type": "project", 
   "homepage": "http://www.jungol.tk",
-  "license": "GPL-3.0",
+  "license": "GPL-3.0-only",
   "authors": [
     {
       "name": "Sunwoo Bae",
