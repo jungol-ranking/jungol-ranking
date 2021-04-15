@@ -2,7 +2,7 @@
   "name": "codenstory/jungolranking",
   "description": "Jungol Ranking Services",
   "version": "v0.1.0-dev",
-  "type": "project", 
+  "type": "project",
   "homepage": "http://www.jungol.tk",
   "license": "GPL-3.0-only",
   "authors": [
@@ -14,6 +14,6 @@
   ],
   "support": {
     "email": "codenstory@protonmail.ch",
-    "forum": "https://join.slack.com/t/w1618060073-d46208416/shared_invite/zt-oy4obrec-HZ_WXNUD9LWjeK_IAG7fzQ"
+    "forum": "https://jungolrankingservices.slack.com/"
   }
 }
