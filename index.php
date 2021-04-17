@@ -1,3 +1,6 @@
+<?php
+  header('Permissions-Policy: interest-cohort=()');
+?>
 <!DOCTYPE html>
 <html lang="ko" dir="ltr">
   <head>
